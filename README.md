@@ -21,4 +21,4 @@ Claude Code · OpenAI Codex · MCP · Jira · Confluence · GitLab CI/CD · Meta
 
 ### Contact
 
-[Resume (PDF)](Stas_Hrytsko_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/stas-hrytsko) · [stas.hrytsko@gmail.com](mailto:stas.hrytsko@gmail.com)
+[Resume & website](https://hrytsko.com/) · [LinkedIn](https://www.linkedin.com/in/stas-hrytsko) · [stas.hrytsko@gmail.com](mailto:stas.hrytsko@gmail.com)
