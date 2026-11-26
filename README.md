@@ -13,6 +13,7 @@ Technical Delivery Manager who builds with AI agents. 8+ years taking software f
 | [Agentic Delivery Framework](https://github.com/stasHrytsko/agentic-delivery-framework) | How teams ship software with AI agents: pipeline, specs, quality gates, metrics, adoption. Every rule tagged as sourced, hypothesis or proposal. |
 | [Ritmo](https://github.com/stasHrytsko/ritmo) | Local-first PWA for routines and goals. React + TypeScript, layered architecture, tests in CI. |
 | [GetBestAI](https://github.com/stasHrytsko/getbestai) | Picks the best LLM for a task by quality, speed and price, using Artificial Analysis API data. |
+| [Sunset App](https://github.com/stasHrytsko/sunsetapp) | Sunset quality forecast for Valencia from Open-Meteo data. [Live](https://sunsetapp.vercel.app) |
 
 ### Toolbox
 
@@ -20,4 +21,4 @@ Claude Code · OpenAI Codex · MCP · Jira · Confluence · GitLab CI/CD · Meta
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/stas-hrytsko) · [stas.hrytsko@gmail.com](mailto:stas.hrytsko@gmail.com)
+[Resume (PDF)](Stas_Hrytsko_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/stas-hrytsko) · [stas.hrytsko@gmail.com](mailto:stas.hrytsko@gmail.com)
