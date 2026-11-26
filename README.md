@@ -2,8 +2,8 @@
 
 Technical Delivery Manager who builds with AI agents. 8+ years taking software from an agreed priority to a release that works in production, across regulated iGaming, fintech and digital assets. Based in Valencia, Spain.
 
-- Led a regulated platform launch in Italy from zero to go-live in 12 months across 10+ engineering teams and external test labs.
-- Scaled a fintech / digital-assets client account from 8 to 50 engineers and grew its margin by 8%.
+- Led a regulated platform launch in Italy from zero to go-live in 12 months across 11 engineering teams and external test labs.
+- Scaled a fintech / digital-assets client account from 8 to 50 people and grew its monthly revenue 3.75× in two years.
 - Run my own projects AI-native: Claude Code and Codex for code, research and QA, MCP-connected tools for tasks and status, and humans setting the acceptance criteria.
 
 ### Featured
